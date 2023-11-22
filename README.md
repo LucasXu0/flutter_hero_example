@@ -1,16 +1,7 @@
 # hero_example
 
-A new Flutter project.
+An example project demonstrating how to use Hero and GoRouter to integrate transition animations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/LucasXu0/flutter_hero_example/assets/11863087/6b8d1c60-7957-4fb1-8cb7-16dcb2b6d5f8
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
